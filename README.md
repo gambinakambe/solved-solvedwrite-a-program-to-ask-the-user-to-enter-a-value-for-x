@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedwrite-a-program-to-ask-the-user-to-enter-a-value-for-x
+<br>
+write a program to ask the user to enter a value for x, compute and display y’s value:a program to convert pounds to Kilograms. ( Recall that 1 KG=2.205 lb.)a program to compute the area A of a triangle with base b and height h ( Recall A=(1/2)(b*h) )a program to compute the volume V of a sphere of radius r. ( Recall V=(4/3)(pi *r^(3))
